@@ -1,0 +1,21 @@
+url,Event is about war/military operations (t_mil),Event report includes reference to specific location (t_loc),Event report mentions military casualties,Event report mentions civilian casualties,ISIS won the conflict,date
+https://www.cnn.com/2019/03/23/middleeast/isis-caliphate-end-intl/index.html,TRUE,TRUE,FALSE,FALSE,FALSE,03/23/19
+https://www.cnn.com/2017/06/25/asia/philippines-marawi-isis/index.html,TRUE,TRUE,TRUE,FALSE,TRUE,08/24/17
+https://www.cnn.com/2017/06/06/middleeast/raqqa-great-battle-begins-tim-lister/index.html,TRUE,TRUE,FALSE,FALSE,TRUE,06/06/17
+https://fox2now.com/news/isis-in-the-crosshairs-battle-for-mosul-begins/,TRUE,TRUE,FALSE,FALSE,FALSE,08/16/16
+https://www.cnn.com/2016/12/12/middleeast/palmyra-syria-isis-russia/index.html,TRUE,TRUE,TRUE,FALSE,TRUE,09/12/16
+https://www.fox13seattle.com/news/obama-were-in-new-phase-of-isis-fight-more-u-s-troops-to-train-iraqi-soldiers,TRUE,TRUE,TRUE,TRUE,FALSE,11/09/14
+https://www.nbcnews.com/storyline/isis-terror/new-video-iraqi-forces-battle-isis-outside-ramadi-n484156,TRUE,TRUE,FALSE,FALSE,FALSE,12/21/15
+http://fingfx.thomsonreuters.com/gfx/rngs/PHILIPPINES-ATTACK/010041F032X/index.html,TRUE,TRUE,TRUE,FALSE,TRUE,05/25/17
+https://www.defense.gov/News/News-Stories/Article/Article/1111557/iraqis-fight-for-western-mosul-in-tough-battle-against-isis/,TRUE,TRUE,FALSE,FALSE,TRUE,03/13/17
+https://www.cnbc.com/2014/10/25/iraq-notches-victory-against-isis-in-fierce-battle-over-key-town.html,TRUE,TRUE,TRUE,FALSE,FALSE,10/25/14
+https://www.cnbc.com/2015/04/07/isis-in-damascus-fighting-in-syrian-capital-a-new-threat.html,TRUE,TRUE,FALSE,FALSE,TRUE,04/07/15
+https://www.cnbc.com/2017/03/31/islamic-state-territory-is-shrinking-taking-major-bite-out-of-funding.html,FALSE,FALSE,FALSE,FALSE,FALSE,03/31/17
+https://www.aljazeera.com/news/2015/9/1/street-battles-rage-as-isil-inches-deeper-into-damascus,TRUE,TRUE,TRUE,TRUE,TRUE,09/01/15
+https://www.cnn.com/2015/12/28/middleeast/iraq-military-retakes-ramadi/index.html,TRUE,TRUE,FALSE,FALSE,FALSE,12/29/15
+https://www.cnn.com/2015/01/26/middleeast/syria-kobani-fighting/index.html,TRUE,TRUE,TRUE,TRUE,FALSE,01/27/15
+https://www.cnn.com/videos/intl_world/2015/01/31/vo-newsroom-isis-fighters-say-airstrikes-caused-kobani-withdrawal.cnn,TRUE,TRUE,FALSE,FALSE,FALSE,NONE
+https://www.cnn.com/2015/12/07/world/syria-kurdish-fighters-isis-battle/index.html,TRUE,TRUE,FALSE,FALSE,FALSE,02/26/19
+https://www.cnn.com/2015/05/05/middleeast/syria-kobani-rising-from-ashes/index.html,FALSE,TRUE,FALSE,FALSE,FALSE,05/05/15
+https://www.cnn.com/2016/12/12/middleeast/palmyra-syria-isis-russia/index.html,TRUE,TRUE,TRUE,FALSE,TRUE,09/12/16
+https://www.cnbc.com/2015/04/07/isis-in-damascus-fighting-in-syrian-capital-a-new-threat.html,TRUE,TRUE,FALSE,FALSE,TRUE,04/07/15
