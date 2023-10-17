@@ -1,5 +1,5 @@
 import requests
-from newspaper_git.newspaper import Article, Config, Source
+from scraper.newspaper_git.newspaper import Article, Config, Source
 from waybackpy import Url
 from time import sleep
 from random import randint

@@ -1,4 +1,4 @@
-url,Event is about war/military operations (t_mil),Event report includes reference to specific location (t_loc),Event report mentions military casualties,Event report mentions civilian casualties,ISIS won the conflict,date
+url,t_mil,t_loc,t_milcas,t_civcas,t_isis_vic,date
 https://www.cnn.com/2019/03/23/middleeast/isis-caliphate-end-intl/index.html,TRUE,TRUE,FALSE,FALSE,FALSE,03/23/19
 https://www.cnn.com/2017/06/25/asia/philippines-marawi-isis/index.html,TRUE,TRUE,TRUE,FALSE,TRUE,08/24/17
 https://www.cnn.com/2017/06/06/middleeast/raqqa-great-battle-begins-tim-lister/index.html,TRUE,TRUE,FALSE,FALSE,TRUE,06/06/17

@@ -3,3 +3,4 @@ Lxml
 Tldextract
 Feedparser
 Cssselect
+setfit
